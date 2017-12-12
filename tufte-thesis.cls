@@ -240,3 +240,10 @@
 
 \PassOptionsToPackage { inline } { enumitem }
 \RequirePackage { enumitem }
+
+
+%%%%%%%%%%%%%
+% Utilities %
+%%%%%%%%%%%%%
+
+\RequirePackage { import }
