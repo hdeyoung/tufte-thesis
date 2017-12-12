@@ -215,6 +215,8 @@
 \newtheorem* { theorem* } { Theorem }
 \newtheorem { lemma } [ theorem ] { Lemma }
 \newtheorem* { lemma* } { Lemma }
+\newtheorem { corollary } [ theorem ] { Corollary }
+\newtheorem* { corollary* } { Corollary }
 \newtheorem* { falseclaim* } { False~Claim }
 
 \theoremstyle { smallcaps-definition }
